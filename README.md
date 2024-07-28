@@ -28,7 +28,7 @@ For more screenshots, [click here](http://legacystuff.aku-hafizulwananda.com/fil
 
 ### Instructions
 
-1.  Download the `v1rstnewchapterthemes-[version]-[variant].themepack` version from releases page.
+1.  Download the `v1rstnewchapterthemes-v[version]-[variant].themepack` version from releases page.
 2.  Open the .themepack file and the theme should applied automatically.
 
 **WARNING!**
@@ -56,8 +56,6 @@ For more screenshots, [click here](http://legacystuff.aku-hafizulwananda.com/fil
 ## `.iso` Files
 
 Download the `.iso` file from releases page to mount it on virtual machine of burn it into CD.
-
-## Notes
 
 ## Legal Information
 
