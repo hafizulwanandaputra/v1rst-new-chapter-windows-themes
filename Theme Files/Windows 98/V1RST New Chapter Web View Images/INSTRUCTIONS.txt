@@ -1,0 +1,2 @@
+V1RST New Chapter Windows Explorer Web View Images for Windows 98 without Microsoft Plus! 98
+- Copy Web View Images from "[Program Files Folder]\Plus!\Themes\V1RST New Chapter Web View Images" to "[Windows Installation Directory]\Web".

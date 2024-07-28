@@ -1,0 +1,10 @@
+Colorization Reference for V1RST New Chapter Themes for Windows
+
+AERO
+White: 0XC4555555
+
+Active Title
+White: 85 85 85
+
+Inactive Title: 240 240 240
+Inactive Title Text: 160 160 160

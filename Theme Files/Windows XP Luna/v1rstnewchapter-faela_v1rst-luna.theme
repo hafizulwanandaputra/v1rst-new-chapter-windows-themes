@@ -1,0 +1,64 @@
+﻿; Copyright � Microsoft Corp. 1995-2001
+
+[Theme]
+DisplayName=V1RST New Chapter - Faela V1RST - Luna
+
+; My Computer
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\Explorer.exe,0
+
+; My Documents
+[CLSID\{450D8FBA-AD25-11D0-98A8-0800361B1103}\DefaultIcon]
+DefaultValue=%SystemRoot%\SYSTEM32\mydocs.dll,0
+
+; My Network Places
+[CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\system32\SHELL32.dll,17
+
+; Recycle Bin
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%SystemRoot%\System32\shell32.dll,32
+empty=%SystemRoot%\System32\shell32.dll,31
+
+
+
+[Control Panel\Cursors]
+Arrow=
+Help=
+AppStarting=
+Wait=
+NWPen=
+No=
+SizeNS=
+SizeWE=
+Crosshair=
+IBeam=
+SizeNWSE=
+SizeNESW=
+SizeAll=
+UpArrow=
+DefaultValue=Windows default
+DefaultValue.MUI=@themeui.dll,-2043
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=%WinDir%Web\Wallpaper\V1RST New Chapter - Faela V1RST (4-3).bmp
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+ScreenSaveActive=0
+
+
+[VisualStyles]
+Path=%ResourceDir%\Themes\luna\luna.msstyles
+ColorStyle=Metallic
+Size=NormalSize
+
+
+[boot]
+SCRNSAVE.EXE=
+
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+ThemeColorBPP=8

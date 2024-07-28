@@ -1,0 +1,12 @@
+RGB Color Values for Gradient Title Bar Color
+Apply in Display Properties > Appearance
+
+ACTIVE TITLE BAR
+R: 85
+G: 85
+B: 85
+
+INACTIVE TITLE BAR
+R: 240
+G: 240
+B: 240

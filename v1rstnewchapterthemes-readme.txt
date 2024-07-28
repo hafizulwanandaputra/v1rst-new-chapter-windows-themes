@@ -1,0 +1,22 @@
+V1RST New Chapter Themes.
+V1RST, an Indonesian girl group with new look.
+
+CHANGELOG
+
+1.0.2 (2024/07/28)
+- Source code conversion into Git.
+- MIT License.
+
+1.0.1 (2024-04-04) - Windows 95, Windows XP, Windows Vista
+- Added Luna theme with Silver variant.
+- Updated component selection: Base theme without additional wallpaper sizes but includes additional theme variant.
+NOTES:
+- Luna theme with Silver variant only works in versions 5.1.2481 through 6.0.5059.
+- Aero theme variant requires WDDM display driver. Otherwise, Windows Basic style is used.
+
+1.0.0 (2024-03-23)
+- Initial release.
+
+This software is for personal and non-commercial use!
+V1RST New Chapter Themes is not affiliated, associated, or in any way officially connected with Kapital Entertainment.
+© All rights reserved Kapital Entertainment 2024
