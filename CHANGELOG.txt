@@ -17,6 +17,6 @@ NOTES:
 1.0.0 (2024-03-23)
 - Initial release.
 
-This software is for personal and non-commercial use!
+This software is licensed under MIT License.
 V1RST New Chapter Themes is not affiliated, associated, or in any way officially connected with Kapital Entertainment.
 © All rights reserved Kapital Entertainment 2024
